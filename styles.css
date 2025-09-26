@@ -1,0 +1,46 @@
+/*This is an element selector*/
+a {
+    color: blue;
+}
+article {
+    text-align: justify;
+    font-family: Arial, Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+/*This is a class selector*/
+#redColor {
+    color: red;
+    font-style: italic;
+    font-weight: 2.5em;
+}
+ #blueColor {
+    color: blue;
+    font-weight: bold;
+    font-size: 2.5em;
+    background-color: #000;
+ }
+/*This is an element selector*/
+.myBackground {
+    background-color: dodgerblue;
+    color: white(255, 255, 0.9);
+}
+
+.box {
+    border-style: solid;
+    border-width: 100px;
+    width: 100px;
+    height: 100px;
+    background-color:rgb(122, 5, 231);
+    border-radius: 100px;
+    box-sizing: border-box;
+
+/*margin-left: 100px; */
+}
+.testing {
+    margin-left: 30px;
+    margin-top: 30px;
+    color: #fff;
+    padding: 20px;
+    color:#000;
+    margin: 60 170px 0 120px; 
+}
