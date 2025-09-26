@@ -1,0 +1,174 @@
+/* General Reset */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f9;
+    color: #000000ff;
+    line-height: 1.6;
+    background-color: #1ee40cff;
+}
+
+/* Header Styling */
+header {
+    background: #1bb623ff;
+    color: #fff;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    text-decoration: underline;
+    border-bottom: 2px solid #fff;
+}
+
+/* Section Styling */
+section {
+    padding: 2rem;
+    background: #fff;
+    margin: 1rem auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(60, 228, 18, 0.1);
+}
+
+section h2 {
+    color: #2edb17ff;
+    margin-bottom: 1rem;
+}
+
+/* Lists Styling */
+ul, ol {
+    margin-left: 20px;
+    padding-left: 10px;
+}/* General Reset */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f4f9;
+    color: #0eeb06ff;
+    line-height: 1.6;
+}
+
+/* Header Styling */
+header {
+    background: #0ee218ff;
+    color: #fff;
+    padding: 1rem 2rem;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0.5rem 0 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover,
+nav ul li a.active {
+    text-decoration: underline;
+    border-bottom: 2px solid #fff;
+}
+
+/* Section Styling */
+section {
+    padding: 2rem;
+    background: #fff;
+    margin: 1rem auto;
+    width: 80%;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+section h2 {
+    color: #14ee00ff;
+    margin-bottom: 1rem;
+}
+
+/* Lists Styling */
+ul, ol {
+    margin-left: 20px;
+    padding-left: 10px;
+}
+
+ul li, ol li {
+    margin: 8px 0;
+    font-size: 1rem;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #31dd0fff;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+/* Extra Styling for Animals & Landscapes */
+section ul li::before {
+    content: "🐾 ";
+}
+
+section ol li::before {
+    content: "🌍 ";
+}
+
+
+ul li, ol li {
+    margin: 8px 0;
+    font-size: 1rem;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background: #0aee1dff;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+
+
+section ol li::before {
+    content: "🌍 ";
+}
